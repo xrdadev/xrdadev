@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ropex</h1>
 <h3 align="center">ᴄᴏᴅᴇ ′ ᴄᴏғғᴇᴇ ′ ᴄʜᴀᴏs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xrdadev&label=Profile%20views&color=0e75b6&style=flat" alt="xrdadev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xrdadev" alt="xrdadev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/2ksarda" target="blank"><img src="https://img.shields.io/twitter/follow/2ksarda?logo=twitter&style=for-the-badge" alt="2ksarda" /></a> </p>
 
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/2ksarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2ksarda" height="30" width="40" /></a>
 <a href="https://instagram.com/arda_akks34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arda_akks34" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/685erpmd2cvnwm9ewnv66gws4?si=d993757a0898400c&nd=1&dlsi=d8bea0d3b8fe4ade" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1200px-Spotify_icon.svg.png" alt="arda_akks34" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/685erpmd2cvnwm9ewnv66gws4?si=d993757a0898400c&nd=1&dlsi=d8bea0d3b8fe4ade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="arda_akks34" height="30" width="40" /></a>
 
 </p>
 
